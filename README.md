@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Juan Jose. I know about programing since secondary school, and now I'm working as programmer since 2021, I decided to look for a job since the pandemic situation.</p>
+<p align="left">My name is Juan Jose. I know programming since high school, and now I work as a programmer. I decided to look for a job in the pandemic situation.</p>
 
 ###
 
