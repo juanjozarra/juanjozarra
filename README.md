@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Juan Jose. I know programming since high school, and now I work as a programmer. I decided to look for a job in the pandemic situation.</p>
+<p align="left">My name is Juan José, I am a young programmer who loves to create and develop complex systems.</p>
 
 ###
 
-<h2 align="left">I'm a full stack web developer jr+ focused on backend side</h2>
+<h2 align="left">I'm a full stack web developer focused on Angular and Java.</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 16 years old<br>🧑‍🎓 IT technician<br>🔜 Programmer Analyst<br>📚 I still learning Angular and JAVA for web development<br>🎯 Goals = Being in an amazing work group</p>
+<p align="left">🧑‍🎓 🔜 Programmer Analyst<br>📚 I still learning Angular and JAVA for web development<br>🎯 Goals: become a prominent developer in the mentioned technologies, and also be part of an amazing team.</p>
 
 ###
 
